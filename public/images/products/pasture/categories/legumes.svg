@@ -1,0 +1,5 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#8fbc8f"/>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle" dominant-baseline="middle">Pasture Legumes</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#2d4a2d" text-anchor="middle" dominant-baseline="middle">Nitrogen Fixing</text>
+</svg>

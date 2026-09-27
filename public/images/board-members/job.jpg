@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f3f4f6"/>
+    <circle cx="50%" cy="40%" r="60" fill="#e5e7eb"/>
+    <rect x="30%" y="70%" width="40%" height="20" fill="#e5e7eb"/>
+    <text x="50%" y="85%" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Job-Ndemo</text>
+  </svg>

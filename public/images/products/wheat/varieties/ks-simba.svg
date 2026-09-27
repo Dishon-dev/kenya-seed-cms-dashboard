@@ -1,0 +1,8 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#b8860b"/>
+  <text x="150" y="70" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" dominant-baseline="middle">KS Simba</text>
+  <text x="150" y="90" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">Hard Red Wheat</text>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">10-22 bags/acre</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">116-120 days</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="10" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">Marginal & high potential</text>
+</svg>

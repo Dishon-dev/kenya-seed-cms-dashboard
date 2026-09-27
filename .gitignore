@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Production build output (CRA's build directory) - regenerated from
+# source via `npm run build`, never committed.
+/build
+
+# Environment variables - env.example is the committed template; the real
+# .env is not.
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Files created by image-server.js's local upload target, if used.
+uploads/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/editor artifacts
+.DS_Store
+.vscode/
+.idea/
+
+# Testing
+/coverage

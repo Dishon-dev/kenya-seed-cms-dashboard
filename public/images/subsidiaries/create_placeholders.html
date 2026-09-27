@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Placeholder Images</title>
+</head>
+<body>
+    <canvas id="canvas1" width="300" height="300" style="border: 1px solid #ccc;"></canvas>
+    <canvas id="canvas2" width="300" height="300" style="border: 1px solid #ccc;"></canvas>
+    <canvas id="canvas3" width="300" height="300" style="border: 1px solid #ccc;"></canvas>
+    <canvas id="canvas4" width="300" height="300" style="border: 1px solid #ccc;"></canvas>
+    
+    <script>
+        const names = [
+            'David Kiplagat Tum',
+            'Hosea Sirma', 
+            'Kate Ojungo Lule',
+            'Patrick Thuo'
+        ];
+        
+        names.forEach((name, index) => {
+            const canvas = document.getElementById(`canvas${index + 1}`);
+            const ctx = canvas.getContext('2d');
+            
+            // Background
+            ctx.fillStyle = '#f0f9ff';
+            ctx.fillRect(0, 0, 300, 300);
+            
+            // Border
+            ctx.strokeStyle = '#0ea5e9';
+            ctx.lineWidth = 4;
+            ctx.strokeRect(2, 2, 296, 296);
+            
+            // Text
+            ctx.fillStyle = '#0ea5e9';
+            ctx.font = 'bold 24px Arial';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            
+            const words = name.split(' ');
+            words.forEach((word, i) => {
+                ctx.fillText(word, 150, 120 + (i * 30));
+            });
+            
+            // Download
+            const link = document.createElement('a');
+            link.download = `${name.replace(/\s+/g, '-').toLowerCase()}.png`;
+            link.href = canvas.toDataURL();
+            link.click();
+        });
+    </script>
+</body>
+</html>

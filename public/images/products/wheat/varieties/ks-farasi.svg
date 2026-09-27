@@ -1,0 +1,9 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#daa520"/>
+  <text x="150" y="65" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" dominant-baseline="middle">KS Farasi</text>
+  <text x="150" y="85" font-family="Arial, sans-serif" font-size="12" fill="#2f4f4f" text-anchor="middle" dominant-baseline="middle">Hard Red Wheat</text>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="12" fill="#2f4f4f" text-anchor="middle" dominant-baseline="middle">10-22 bags/acre</text>
+  <text x="150" y="115" font-family="Arial, sans-serif" font-size="12" fill="#2f4f4f" text-anchor="middle" dominant-baseline="middle">119 days</text>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="10" fill="#2f4f4f" text-anchor="middle" dominant-baseline="middle">Disease tolerant</text>
+  <text x="150" y="145" font-family="Arial, sans-serif" font-size="10" fill="#2f4f4f" text-anchor="middle" dominant-baseline="middle">Good baking quality</text>
+</svg>

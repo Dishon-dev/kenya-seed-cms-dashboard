@@ -1,0 +1,9 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#b8860b"/>
+  <text x="150" y="70" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle" dominant-baseline="middle">Sorghum E 1291</text>
+  <text x="150" y="90" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">Brown Grain</text>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">15-20 bags/acre</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">5 months</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="10" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">Dual purpose variety</text>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="10" fill="#f5deb3" text-anchor="middle" dominant-baseline="middle">High yield</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#2d5a3d"/>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" dominant-baseline="middle">Napier Grass</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#e8f5e8" text-anchor="middle" dominant-baseline="middle">High Biomass Production</text>
+</svg>

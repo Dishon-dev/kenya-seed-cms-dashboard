@@ -1,0 +1,7 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#228b22"/>
+  <text x="150" y="80" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" dominant-baseline="middle">NERICA 11</text>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="12" fill="#e8f5e8" text-anchor="middle" dominant-baseline="middle">High Yield</text>
+  <text x="150" y="115" font-family="Arial, sans-serif" font-size="12" fill="#e8f5e8" text-anchor="middle" dominant-baseline="middle">7 tonnes/ha</text>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="12" fill="#e8f5e8" text-anchor="middle" dominant-baseline="middle">130 days</text>
+</svg>

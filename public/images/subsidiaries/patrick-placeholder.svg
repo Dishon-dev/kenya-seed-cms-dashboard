@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="4"/>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0ea5e9">Patrick Thuo</text>
+  <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">General Manager</text>
+  <text x="150" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">Kibo Seed Tanzania</text>
+</svg>
